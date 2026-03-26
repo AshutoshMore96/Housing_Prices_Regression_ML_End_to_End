@@ -1,0 +1,10 @@
+artifact_location: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/models/m-0d2125124aad46a587c5462a67111dcc/artifacts
+creation_timestamp: 1773968010507
+experiment_id: '651430552909800067'
+last_updated_timestamp: 1773968015308
+model_id: m-0d2125124aad46a587c5462a67111dcc
+model_type: null
+name: model
+source_run_id: 6a3e5d6c75ad49baa8b4c495ee9e2fea
+status: 2
+status_message: null

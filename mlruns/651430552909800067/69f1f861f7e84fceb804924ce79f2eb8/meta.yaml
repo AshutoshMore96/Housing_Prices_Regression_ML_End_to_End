@@ -1,0 +1,14 @@
+artifact_uri: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/69f1f861f7e84fceb804924ce79f2eb8/artifacts
+end_time: 1773700244652
+entry_point_name: ''
+experiment_id: '651430552909800067'
+lifecycle_stage: active
+run_id: 69f1f861f7e84fceb804924ce79f2eb8
+run_name: casual-sponge-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773700234980
+status: 3
+tags: []
+user_id: ashutosh

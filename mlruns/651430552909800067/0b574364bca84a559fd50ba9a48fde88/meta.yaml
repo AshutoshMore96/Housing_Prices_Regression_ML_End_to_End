@@ -1,0 +1,14 @@
+artifact_uri: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/0b574364bca84a559fd50ba9a48fde88/artifacts
+end_time: 1773700216309
+entry_point_name: ''
+experiment_id: '651430552909800067'
+lifecycle_stage: active
+run_id: 0b574364bca84a559fd50ba9a48fde88
+run_name: brawny-boar-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773700211440
+status: 3
+tags: []
+user_id: ashutosh

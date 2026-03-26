@@ -1,0 +1,14 @@
+artifact_uri: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/98629e3c9b784f178b6a0278b11df7eb/artifacts
+end_time: 1773700251771
+entry_point_name: ''
+experiment_id: '651430552909800067'
+lifecycle_stage: active
+run_id: 98629e3c9b784f178b6a0278b11df7eb
+run_name: bittersweet-ray-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773700244658
+status: 3
+tags: []
+user_id: ashutosh

@@ -1,0 +1,14 @@
+artifact_uri: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/cbaa286504ef457aa0cb2d3c79f3e9f9/artifacts
+end_time: 1773700264279
+entry_point_name: ''
+experiment_id: '651430552909800067'
+lifecycle_stage: active
+run_id: cbaa286504ef457aa0cb2d3c79f3e9f9
+run_name: intelligent-frog-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773700257183
+status: 3
+tags: []
+user_id: ashutosh

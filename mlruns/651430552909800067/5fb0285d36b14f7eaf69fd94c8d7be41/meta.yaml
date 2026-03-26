@@ -1,0 +1,14 @@
+artifact_uri: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/5fb0285d36b14f7eaf69fd94c8d7be41/artifacts
+end_time: 1773967958933
+entry_point_name: ''
+experiment_id: '651430552909800067'
+lifecycle_stage: active
+run_id: 5fb0285d36b14f7eaf69fd94c8d7be41
+run_name: chill-crow-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773967943651
+status: 3
+tags: []
+user_id: ashutosh

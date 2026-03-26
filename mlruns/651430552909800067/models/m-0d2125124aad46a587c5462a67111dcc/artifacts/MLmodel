@@ -1,0 +1,22 @@
+artifact_path: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/models/m-0d2125124aad46a587c5462a67111dcc/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.0
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.10.1
+model_id: m-0d2125124aad46a587c5462a67111dcc
+model_size_bytes: 15348914
+model_uuid: m-0d2125124aad46a587c5462a67111dcc
+prompts: null
+run_id: 6a3e5d6c75ad49baa8b4c495ee9e2fea
+utc_time_created: '2026-03-20 00:53:30.534410'

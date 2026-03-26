@@ -1,0 +1,14 @@
+artifact_uri: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/174b3923858b41419ba58ec939f44d7a/artifacts
+end_time: 1773700433911
+entry_point_name: ''
+experiment_id: '651430552909800067'
+lifecycle_stage: active
+run_id: 174b3923858b41419ba58ec939f44d7a
+run_name: best_xgboost_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773700425895
+status: 3
+tags: []
+user_id: ashutosh

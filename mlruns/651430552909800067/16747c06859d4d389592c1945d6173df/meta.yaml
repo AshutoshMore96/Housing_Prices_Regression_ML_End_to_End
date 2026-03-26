@@ -1,0 +1,14 @@
+artifact_uri: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067/16747c06859d4d389592c1945d6173df/artifacts
+end_time: 1773967875412
+entry_point_name: ''
+experiment_id: '651430552909800067'
+lifecycle_stage: active
+run_id: 16747c06859d4d389592c1945d6173df
+run_name: big-ox-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773967857594
+status: 3
+tags: []
+user_id: ashutosh

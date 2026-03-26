@@ -1,0 +1,7 @@
+artifact_location: /Users/ashutosh/PycharmProjects/Housing_Prices_Regression_ML_End_to_End/mlruns/651430552909800067
+creation_time: 1773700211341
+experiment_id: '651430552909800067'
+last_update_time: 1773700211341
+lifecycle_stage: active
+name: xgboost_optuna_housing
+workspace: default
